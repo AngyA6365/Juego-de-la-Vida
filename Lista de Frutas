@@ -1,0 +1,3 @@
+lista=["Banano", "Pera", "Manzana", "Durazno", "Mango", "Fresa"]
+for i in lista: 
+        print(i)
